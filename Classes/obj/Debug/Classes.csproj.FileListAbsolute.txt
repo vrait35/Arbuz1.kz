@@ -1,0 +1,6 @@
+C:\Users\темирбулата\source\repos\Arbuz.kz\Classes\bin\Debug\Classes.dll
+C:\Users\темирбулата\source\repos\Arbuz.kz\Classes\bin\Debug\Classes.pdb
+C:\Users\темирбулата\source\repos\Arbuz.kz\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\Arbuz.kz\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\Arbuz.kz\Classes\obj\Debug\Classes.dll
+C:\Users\темирбулата\source\repos\Arbuz.kz\Classes\obj\Debug\Classes.pdb
